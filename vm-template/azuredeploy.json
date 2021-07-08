@@ -102,7 +102,7 @@
                 "autoUpgradeMinorVersion":true,
                 "settings": {
                     "fileUris": [
-                       "https://raw.githubusercontent.com/pdtit/ARMtemplates/master/AZ-500-Lab10VM/configurevm.ps1"
+                       "https://raw.githubusercontent.com/tiagocostapt/az-700-labs/master/install-iis.ps1"
                     ],
                     "commandToExecute": "powershell.exe -ExecutionPolicy Unrestricted -File configurevm.ps1"
                 }
