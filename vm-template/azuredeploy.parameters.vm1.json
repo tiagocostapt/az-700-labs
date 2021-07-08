@@ -5,6 +5,9 @@
         "vmName": {
             "value": "az700-vm1"
         },
+        "nicName": {
+            "value": "az700-nic1"
+        },
         "vmSize": {
             "value": "Standard_DS1_v2"
         },
